@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kamus Bahasa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_id_eng">Indonesia-English</string>
+    <string name="nav_eng_id">English-Indonesia</string>
+    <string name="first_running">First Running</string>
+    <string name="text_hint_search_id">Masukkan Kata</string>
+    <string name="text_hint_search_eng">Input Keyworad</string>
+    <string name="title_activity_detail">Detail Kamus</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Indonesia-English</item>
+        <item>English-Indonesia</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="keterangan">Keterangan :</string>
+    <string name="key">Alarm</string>
+</resources>
